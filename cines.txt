@@ -1,0 +1,86 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NOS STUDIO HEVC" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png?ssl=1" group-title="PORTUGAL FHD HEVC",|PT| NOS STUDIO HEVC
+http://vip.fr3tv.com:25443/live/celiatv/C93OOZHTUS/139921.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION SD" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION SD
+http://887432710601755898.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/755898.ts
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="PT: NOS STUDIO FHD" tvg-logo="" group-title="Portugal",PT: NOS STUDIO FHD
+http://887432710601793645.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/793645.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HEVC
+http://887432710601800703.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/800703.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION SD" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION SD
+http://887432710601854765.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/854765.ts
+#EXTINF:-1 tvg-id="TVCineTOP.pt" tvg-name="PT: TV CINE TOP HD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP HD
+http://887432710601864815.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/864815.ts
+#EXTINF:-1 tvg-id="TVCineEMOTION.pt" tvg-name="PT: TV CINE EMOTION HD" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION HD
+http://887432710601865426.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/865426.ts
+#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="PT: NOS STUDIOS HEVC" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS HEVC
+http://887432710601875515.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/875515.ts
+#EXTINF:-1 tvg-id="CanalNOS.pt" tvg-name="PT: CANAL NOS FHD" tvg-logo="" group-title="Portugal",PT: CANAL NOS FHD
+http://887432710601879082.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/879082.ts
+#EXTINF:-1 tvg-id="TVCineEMOTION.pt" tvg-name="PT: TVCINE EMOTION HD" tvg-logo="" group-title="Portugal",PT: TVCINE EMOTION HD
+http://887432710601888596.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/888596.ts
+#EXTINF:-1 tvg-id="TVCineEDITION.pt" tvg-name="PT: TVCINE EDITION HD" tvg-logo="" group-title="Portugal",PT: TVCINE EDITION HD
+http://887432710601894672.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/894672.ts
+#EXTINF:-1 tvg-id="TVCineACTION.pt" tvg-name="PT: TVCINE ACTION HD" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION HD
+http://887432710601914194.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/914194.ts
+#EXTINF:-1 tvg-id="TVCineTOP.pt" tvg-name="PT: TV CINE TOP HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP HEVC
+http://887432710601916227.ofd92622.xyz:80/live/fe128218/EhQbeQyYGWe/916227.ts
+#EXTINF:-1 tvg-id="tvcine.top.pt" tvg-name="PT069:TV Cine Top" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT069TVCine1.png" group-title="PT Movies",PT069:TV Cine Top
+http://vo01.mohdtv.com:8880/voby3666/69222721/3181
+#EXTINF:-1 tvg-id="tvcine.emotion.pt" tvg-name="PT070:TV Cine Emotion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT070TVCine2.png" group-title="PT Movies",PT070:TV Cine Emotion
+http://vo01.mohdtv.com:8880/voby3666/69222721/3180
+#EXTINF:-1 tvg-id="tvcine.action.pt" tvg-name="PT071:TV Cine Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT071TVCine3.png" group-title="PT Movies",PT071:TV Cine Action
+http://vo01.mohdtv.com:8880/voby3666/69222721/3179
+#EXTINF:-1 tvg-id="tvcine.edition.pt" tvg-name="PT072:TV Cine Edition" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT072TVCine4.png" group-title="PT Movies",PT072:TV Cine Edition
+http://vo01.mohdtv.com:8880/voby3666/69222721/3178
+#EXTINF:-1 tvg-id="" tvg-name="PT092:NOS Studios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT092NOSStudios.png" group-title="PT Movies",PT092:NOS Studios
+http://vo01.mohdtv.com:8880/voby3666/69222721/29398
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
